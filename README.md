@@ -17,13 +17,6 @@ A fun side-scrolling platformer built using **Pygame**! This game includes level
 
 ---
 
-## 🖼️ Screenshots
-
-> _Add screenshots of your game here_  
-> You can press `Print Screen` or use tools like Snipping Tool or ShareX to take screenshots while running the game.
-
----
-
 ## 📂 Folder Structure
 
 ```
